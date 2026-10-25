@@ -1,6 +1,6 @@
 # Hashing demo
 A website to demonstrate how text can be turned into a hash  
-https://ttb3ar.github.io/hashmo/  
+https://ericeisaman.github.io/hashmo/  
   
 **Features include:**  
 Light/Dark theme toggling  
